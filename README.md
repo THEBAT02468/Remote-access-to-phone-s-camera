@@ -3,5 +3,7 @@ Para que el script funcione descargar desde google play: ip webcamer desde el ce
 y usar estos comandos:
 
 pip install numpy
+
 pip install requests
+
 pip install opencv-python
